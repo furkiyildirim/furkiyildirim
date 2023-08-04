@@ -8,7 +8,7 @@
 
 🌐 Exploring the realms of tech, one project at a time
 
-📫 Reach me at: [Your Contact Info]
+📫 Reach me at: www.linkedin.com/in/furkan-yildirim-8874631b1
 
 Let's connect and create something amazing together!
 
