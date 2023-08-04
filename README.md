@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Uploading pattern.png…]()
+![Uploading pattern.png…]('img.png')
 
 👋 Hey there, I'm [Your Name]!
 
