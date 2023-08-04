@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![Uploading pattern.png…]()
 
 👋 Hey there, I'm [Your Name]!
 
