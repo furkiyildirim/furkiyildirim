@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**furkiyildirim/furkiyildirim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+👋 Hey there, I'm [Your Name]!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 High School Senior | Future Software Engineering Student
+
+💻 3 Years of Programming Experience | Python, Web, and Backend Dev
+
+🌐 Exploring the realms of tech, one project at a time
+
+📫 Reach me at: [Your Contact Info]
+
+⚡ Fun fact: [Share a Fun Fact about Yourself]
+
+Let's connect and create something amazing together!
