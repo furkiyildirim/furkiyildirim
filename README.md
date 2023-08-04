@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Uploading pattern.png…]('img.png')
+![Uploading pattern.png…](['img.png'](https://github.com/furkiyildirim/furkiyildirim/blob/main/img.png))
 
 👋 Hey there, I'm [Your Name]!
 
