@@ -4,7 +4,7 @@
 
 🎓 High School Senior | Future Software Engineering Student
 
-💻 3 Years of Programming Experience | Python, Web, and Backend Dev
+💻 3 Years of Programming Experience | Python, Web, Computer Vision and Backend Dev
 
 🌐 Exploring the realms of tech, one project at a time
 
