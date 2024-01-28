@@ -1,4 +1,4 @@
-![Uploading pattern.png…](https://github.com/furkiyildirim/furkiyildirim/blob/main/img.png)
+![Uploading pattern.png…](https://github.com/furkiyildirim/furkiyildirim/blob/main/logo.png)
 
 👋 Hey there, I'm Furkan!
 
