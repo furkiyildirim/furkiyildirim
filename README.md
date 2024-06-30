@@ -2,9 +2,9 @@
 
 👋 Hey there, I'm Furkan!
 
-🎓 High School Senior | Future Software Engineering Student
+🎓 High school graduate | Future Software Engineering Student
 
-💻 3 Years of Programming Experience | Python, Web, Computer Vision and Backend Dev
+💻 3 Years of Programming Experience | Python, Web,Artificial intelligence, Computer Vision and Backend Dev
 
 🌐 Exploring the realms of tech, one project at a time
 
@@ -15,12 +15,14 @@ Let's connect and create something amazing together!
 ---
 
 ### My occupations are...
-- 🖌️ Designing
 - 👨‍💻 Programming
+- 📖 Reading documentation
+- 🔬 Exploring future
 
 ### My hobbies are...
 - 🎮 Gaming
 - 🎧 Music
+- 🎸 Electro guitar
 
 ### My languages and tools are...
 
